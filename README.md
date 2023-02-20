@@ -1,2 +1,2 @@
-# mcbt81.github.io
-Pages practice
+# tinypets
+Minimal JS interface to an image classifer
